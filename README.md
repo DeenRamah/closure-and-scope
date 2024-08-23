@@ -6,3 +6,7 @@ variable defined outside any function accessible anywhere in the code
 variables within a funtion accessible only within that function
 # Function scope
 each variable creates a new scope. variables defined inside a function are not accessible outside of it
+# Closure
+is a function that retains access to its lexil scope even when invoked outside that scope. it is useful for creating private variables and functions
+# inner function
+functions defined inside another function have access to the outer functon scope
