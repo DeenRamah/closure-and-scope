@@ -1,0 +1,5 @@
+//instead fo doing this
+var a = 10;
+var b = 20;
+//then do this
+let a = 10, b = 20;
